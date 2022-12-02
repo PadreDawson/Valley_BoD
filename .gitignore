@@ -1,0 +1,4 @@
+# sphinx build folder
+.vscode
+.venv
+pdf/.doctrees
